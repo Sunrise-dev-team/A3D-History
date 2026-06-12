@@ -1,7 +1,9 @@
 ![](../../arts/moonseven_logo.png)
 
 **Тема: Стратегия в реальном времени с элементами RPG**
+
 **Издатель: Бука**
+
 **Выход: Зима 1997-98 гг.**
 
 
@@ -28,3 +30,5 @@
 
 | ![](../../scetches/moonseven/moonseven_sketch1.png) | ![](../../scetches/moonseven/moonseven_sketch2.png) | ![](../../scetches/moonseven/moonseven_sketch3.png) |
 | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
+
+![](../../renders/moonseven_render1.png)
